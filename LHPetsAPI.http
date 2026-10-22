@@ -1,0 +1,6 @@
+@LHPetsAPI_HostAddress = http://localhost:5102
+
+GET {{LHPetsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
